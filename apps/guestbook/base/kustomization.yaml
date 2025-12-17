@@ -15,4 +15,4 @@ resources:
 images:
   - name: guestbook
     newName: ghcr.io/matthieuwe/guestbook-gitops
-    newTag: main-cd0cfdf
+    newTag: main-5cda412
